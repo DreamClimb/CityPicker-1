@@ -6,7 +6,7 @@
 现在使用比较多的类似美团等APP的城市选择界面.
 
 2步即可实现，就是这么简单粗暴！
-
+<p align="center"><img src="https://github.com/zaaach/CityPicker/raw/master/art/pre_header.png"></p>
 # Gif
 
 ![image](https://github.com/zaaach/CityPicker/raw/master/art/screen.gif)
