@@ -1,4 +1,5 @@
 <p align="center"><img src="https://github.com/zaaach/CityPicker/blob/city-picker/art/pre_header.png"></p>
+
 # CityPicker
 
 [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
