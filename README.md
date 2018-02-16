@@ -10,11 +10,11 @@
 
 # Gif
 
-![image](https://github.com/zaaach/CityPicker/raw/master/art/screen.gif)
+![image](https://github.com/zaaach/CityPicker/blob/city-picker/art/screen.gif)
 
 # APK
 
-下载[demo.apk](https://github.com/zaaach/CityPicker/raw/master/art/demo.apk)体验.
+下载[demo.apk](https://github.com/zaaach/CityPicker/raw/city-picker/art/demo.apk)体验.
 
 # Install
 
